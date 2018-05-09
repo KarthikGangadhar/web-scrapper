@@ -11,6 +11,7 @@ gem 'puma', '~> 3.7'
 gem 'jsonapi-resources', '~> 0.9.0'
 gem 'httparty', '~> 0.16.1'
 gem 'nokogiri', '~> 1.8', '>= 1.8.2'
+gem 'pg'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
