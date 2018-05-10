@@ -1,4 +1,4 @@
-# web-scrapper([index-a-page](https://index-a-page.herokuapp.com/post))
+## web-scrapper ([index-a-page](https://index-a-page.herokuapp.com/post))
 
 Welcome to [index-a-page](https://index-a-page.herokuapp.com/post). The web-api-scrapper, This API allow you to get web-page content such as 1, h2 h3 tags and the links present in the hyper links. It's extremely simple, easy to use.
 
