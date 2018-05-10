@@ -7,6 +7,7 @@ require 'rspec/rails'
 require 'pry'
 require 'pry-nav'
 require 'pry-rails'
+require 'httparty'
 # Add additional requires below this line. Rails is not loaded until this point!
 require 'rspec'
 require 'simplecov'

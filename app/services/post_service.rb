@@ -17,7 +17,7 @@ class ParserService
         if @href.present?
             response = HTTParty.get(@href)
             @response = response.parsed_response    
-        end    
+        end
     end
     
     def parse_content
