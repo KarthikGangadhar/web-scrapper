@@ -1,4 +1,4 @@
-require 'test_helper'
+require 'rspec_helper'
 
 class PostTest < ActiveSupport::TestCase
   # test "the truth" do
