@@ -73,6 +73,7 @@ GEM
     nio4r (2.3.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    pg (1.0.0)
     pry (0.10.4)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -144,6 +145,7 @@ DEPENDENCIES
   jsonapi-resources (~> 0.9.0)
   listen (>= 3.0.5, < 3.2)
   nokogiri (~> 1.8, >= 1.8.2)
+  pg
   pry
   pry-nav
   pry-rails
@@ -154,5 +156,8 @@ DEPENDENCIES
   sqlite3
   tzinfo-data
 
+RUBY VERSION
+   ruby 2.3.1p112
+
 BUNDLED WITH
-   1.16.0.pre.3
+   1.16.1
