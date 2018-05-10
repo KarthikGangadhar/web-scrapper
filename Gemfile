@@ -8,7 +8,6 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.1.5'
-gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'jsonapi-resources', '~> 0.9.0'
 gem 'httparty', '~> 0.16.1'
